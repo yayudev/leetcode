@@ -1,7 +1,5 @@
 {
-  "name": "0001-two-sum",
-  "module": "index.ts",
-  "type": "module",
+  "name": "leetcode",
   "devDependencies": {
     "bun-types": "latest"
   },
